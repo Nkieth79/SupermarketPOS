@@ -1,0 +1,1 @@
+﻿SELECT * FROM Users WHERE Username = 'cashier01' AND PasswordHash = 'cashier123';
