@@ -1,0 +1,4 @@
+# Format: Username,Password,FullName,Role,IsActive
+# Copy this file to users.txt and change the passwords before running the app.
+admin,CHANGE_ME,System Administrator,Admin,1
+cashier01,CHANGE_ME,John Smith,Cashier,1
