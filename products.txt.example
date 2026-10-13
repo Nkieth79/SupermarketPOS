@@ -1,0 +1,6 @@
+# Format: Barcode,ProductName,SellingPrice,CostPrice,Quantity,MinStockLevel
+1234567890123,Fresh Milk (1L),100.00,38.00,48,5
+1234567890124,White Bread,25.00,12.00,30,8
+1234567890125,Extra Large Eggs (12 pack),52.00,30.00,24,10
+1234567890126,Coca Cola (2L),28.00,15.00,92,20
+1234567890127,Basmati Rice (2kg),130.00,85.00,20,5
